@@ -1,0 +1,22 @@
+{
+    "name": "bbcode-to-html",
+    "description": "A bbcode-to-html",
+    "main": "./bbcode.js",
+    "version": "0.1.0",
+    "author": "DoctaEnkoda ",
+    "repository": {
+          "type": "git",
+          "url": "https://github.com/kayabastream/bbcode-to-html.git"
+     },
+     "license": "MIT",
+     "bugs": {
+       "url" : "https://github.com/kayabastream/bbcode-to-html/issues"
+     },
+     "dependencies": {
+       "underscore": "*"
+     },
+     "devDependencies": {
+       "mocha": "latest",
+       "should": "latest"
+     }
+  }
